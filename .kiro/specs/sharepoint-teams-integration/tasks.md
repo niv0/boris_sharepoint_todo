@@ -1,6 +1,7 @@
 # Implementation Plan
 
-- [ ] 1. Set up project structure and core interfaces
+- [-] 1. Set up project structure and core interfaces
+
   - Create Node.js TypeScript project with proper directory structure
   - Define TypeScript interfaces for all data models and service contracts
   - Set up package.json with required dependencies for Microsoft Graph SDK and SharePoint APIs
